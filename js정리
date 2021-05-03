@@ -1,0 +1,30 @@
+dream coding 정리
+
+#01 APIs란?
+application programming interfaces.
+다른앱의 정보를 가져오거나 다른 앱에 행동을 지시하는 수단이다.
+예를 들어 트위터의 api를 이용해 다른 앱에서도 트윗을 올릴수 있고,
+(external apis)
+ESPNdml api를 통해 경기 결과를 가져올 수 있다.
+
+종류
+DOM APIs
+network APIs
+graphics APIs
+audio/video APIs
+device APIs
+file APIs
+storage APIs
+
+web apis security
+
+#02 browser 구조분석
+브라우저에서 열기되면 window 오브젝트에
+DOM
+bom - 브라우저에 관련된 것들 web apis
+js
+
+
+
+
+
